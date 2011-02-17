@@ -1,5 +1,8 @@
 <?php
 
+@include_once '/etc/thomsoft-cloud/api/node/config.php';
+@include_once '/etc/thomsoft-cloud/api/config.php';
+
 define('NEWLINE', "\n");
 
 /** Define class to export as webservice. */
