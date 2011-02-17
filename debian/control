@@ -1,0 +1,11 @@
+Source: thomsoft-cloud-api-node
+Section: web
+Priority: extra
+Maintainer: Thomas A. de Ruiter <thomas@de-ruiter.cx>
+Build-Depends: debhelper (>= 6), quilt
+Standards-Version: 3.8.0
+
+Package: thomsoft-cloud-api-node
+Architecture: all
+Depends: thomsoft-cloud-api (>= 0.1-thomsoft-cloud-3)
+Description: Node API for Thomsoft Cloud

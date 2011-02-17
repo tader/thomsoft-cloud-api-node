@@ -1,0 +1,9 @@
+Package: thomsoft-cloud-api-node
+Version: 0.1-thomsoft-cloud-1.3
+Architecture: all
+Maintainer: Thomas A. de Ruiter <thomas@de-ruiter.cx>
+Installed-Size: 40
+Depends: thomsoft-cloud-api (>= 0.1-thomsoft-cloud-3)
+Section: web
+Priority: extra
+Description: Node API for Thomsoft Cloud
